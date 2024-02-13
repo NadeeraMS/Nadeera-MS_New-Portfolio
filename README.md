@@ -46,23 +46,23 @@ This README will guide users on how to set up, run, and explore my portfolio.
 
 
 ## Features
-Responsive Design: Ensure a seamless experience across devices.
-Interactive Interface: Explore my projects and skills with a user-friendly interface.
-Data-driven Content: Easily update and manage project information using JSON data.
+    Responsive Design: Ensure a seamless experience across devices.
+    Interactive Interface: Explore my projects and skills with a user-friendly interface.
+    Data-driven Content: Easily update and manage project information using JSON data.
 
 ## Technologies Used
-React.js: JavaScript library for building user interfaces.
-CSS: Styling the components and layout.
-JSON: Data format used for managing project information.
+    React.js: JavaScript library for building user interfaces.
+    CSS: Styling the components and layout.
+    JSON: Data format used for managing project information.
 
 
 ## Contributing
-If you'd like to contribute to this project, follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/my-feature`).
-3. Make your changes and commit them (`git commit -m "Add feature"`).
-4. Push to the branch (`git push origin feature/my-feature`).
-5. Open a pull request.
+If you'd like to contribute to this project, follow these steps:        
+    1. Fork the repository.
+    2. Create a new branch (`git checkout -b feature/my-feature`).
+    3. Make your changes and commit them (`git commit -m "Add feature"`).
+    4. Push to the branch (`git push origin feature/my-feature`).
+    5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
