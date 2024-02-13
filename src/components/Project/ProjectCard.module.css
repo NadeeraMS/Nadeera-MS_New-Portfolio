@@ -1,0 +1,90 @@
+@import "../../vars.css";
+
+.card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 18px 24px;
+  max-width: 345px;
+  margin-bottom: 20px;
+  margin-left: 12px;
+}
+
+.image {
+  margin-bottom: 20px;
+  height: 40vh;
+  object-fit: contain;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  text-align: left;
+  border-bottom: 5px solid rgb(187, 197, 5); 
+  
+}
+
+.description {
+  margin-top: 10px;
+  font-size: 22px;
+  font-weight: 400;
+  
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+}
+
+.skill {
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 20px;
+  background-color: rgb(22, 22, 23);
+  padding: 10px 16px;
+  width: 140px;
+  text-align: center;
+}
+
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 10px;
+  background: var(--color-dark);
+  padding: 12px 18px;
+  width: 100px;
+}
+.link:hover{
+  background-color: #576cbc;
+}
+
+@media screen and (max-width: 830px){
+  
+  .card{
+    max-width: 320px;
+  }
+  .image {
+    margin-bottom: 20px;
+    height: 24vh;
+    }
+
+    .skill{
+      width:128px;
+    }
+}

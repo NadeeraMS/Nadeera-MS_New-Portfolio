@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project Enfection",
+      "imageSrc": "projects/intern.jpg",
+      "description": "This is the first project of my intern using row html,css and bootstrap.",
+      "skills": ["html", "sass", "wordpress"],
+      "demo": "https://www.enfection.com",
+      "source": "hhttps://github.com/NadeeraMS"
+    },
+    {
+      "title": "Project Nike landing page",
+      "imageSrc": "projects/nike.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "tailwind"],
+      "demo": "https://nikereacttailwind.netlify.app",
+      "source": "hhttps://github.com/NadeeraMS"
+    },
+    {
+      "title": "Project animated portfolio",
+      "imageSrc": "projects/portfolio 2.png",
+      "description": "This is a project made to learn the latest animations and stylings using taiwind.",
+      "skills": ["React", "tailwind", "Node","motion"],
+      "demo": "https://animated-portfolio-1.netlify.app",
+      "source": "https://github.com/NadeeraMS"
+    }
+  ]

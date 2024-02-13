@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Web developer Intern",
+      "organisation": "Enfection",
+      "startDate": "July, 2023",
+      "endDate": "Jan,2024",
+      "experiences": ["Worked on Many projects", "Got experiences on frontend development"],
+      "imageSrc": "history/enfection.png"
+    },
+    {
+      "role": "UI Designer-certificate",
+      "organisation": "Google Certificate",
+      "startDate": "Dec, 2023",
+      "endDate": "present",
+      "experiences": ["Learning many UI concepts", "Conduct user research before designing"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Freelancer",
+      "organisation": "",
+      "startDate": "Feb, 2024",
+      "endDate": "present",
+      "experiences": [
+        "Got experiences on frontend development using react,nodeJs",
+        "Got experienced on tailwind stylings"
+      ],
+      "imageSrc": "history/freelancerIcon.png"
+    }
+  ]
