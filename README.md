@@ -24,7 +24,6 @@ This README will guide users on how to set up, run, and explore my portfolio.
     cd portfolio-website
     ```
 3. **Install Dependencies**:
-    .```
    **create using vite**
     npm create vite@latest 
 
@@ -36,17 +35,14 @@ This README will guide users on how to set up, run, and explore my portfolio.
     ```
     Your website should now be accessible at `http://localhost:3000`.
 
-2. **Deployment**:website will be deployed in neltify, You can visit it,  https://nadeera-ms-portfolio.netlify.app 
+2. **Deployment** : website will be deployed in neltify, You can visit it,
+    https://nadeera-ms-portfolio.netlify.app 
 
 3. **Customization**
---Personal Information:
-Update details in src/data/data.json.
+Personal Information:Update details in src/data/data.json.
+Projects:Add or modify project information in the JSON file.
+Styling:Customize styles in src/styles to match your preferences.
 
---Projects:
-Add or modify project information in the JSON file.
-
---Styling:
-Customize styles in src/styles to match your preferences.
 
 ## Features
 Responsive Design: Ensure a seamless experience across devices.
